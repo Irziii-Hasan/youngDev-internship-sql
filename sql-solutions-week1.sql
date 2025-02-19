@@ -24,11 +24,11 @@ CREATE TABLE Employees (
 );
 -- Insert 5 records into each table.
 INSERT INTO Departments (name, location) VALUES 
-('HR', 'New York'),
-('IT', 'San Francisco'),
-('Finance', 'Chicago'),
-('Marketing', 'Los Angeles'),
-('Operations', 'Houston');
+('HR', 'Karachi'),
+('IT', 'Islamabad'),
+('Finance', 'Lahore'),
+('Marketing', 'Multan'),
+('Operations', 'Peshawar');
 
 INSERT INTO Employees (name, position, salary, department_id) VALUES
 ('Alice Johnson', 'HR Manager', 60000, 1),
