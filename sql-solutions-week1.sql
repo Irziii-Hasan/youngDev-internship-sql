@@ -51,8 +51,8 @@ SELECT name, position, salary FROM Employees WHERE salary > 50000;
 -- Sort employees by name, list departments in specific cities.
 SELECT * FROM Employees ORDER BY name;
 
--- List departments in specific cities (e.g., 'San Francisco' and 'Chicago')
-SELECT * FROM Departments WHERE location IN ('San Francisco', 'Chicago');
+-- List departments in specific cities (e.g., 'Kaarachi' and 'Multan')
+SELECT * FROM Departments WHERE location IN ('Karachi', 'Multan');
 
 
 
