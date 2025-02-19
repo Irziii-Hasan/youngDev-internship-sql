@@ -31,11 +31,11 @@ INSERT INTO Departments (name, location) VALUES
 ('Operations', 'Peshawar');
 
 INSERT INTO Employees (name, position, salary, department_id) VALUES
-('Alice Johnson', 'HR Manager', 60000, 1),
-('Bob Smith', 'Software Engineer', 80000, 2),
-('Charlie Brown', 'Accountant', 55000, 3),
-('David White', 'Marketing Analyst', 48000, 4),
-('Emma Davis', 'Operations Manager', 75000, 5);
+('Haniya Khawaja', 'HR Manager', 60000, 1),
+('Irza Hasan', 'Software Engineer', 100000, 2),
+('Moosa Azeem', 'Accountant', 55000, 3),
+('Janees Hasan', 'Marketing Analyst', 48000, 4),
+('Mubashir Khawaja', 'Operations Manager', 95000, 5);
 
 -- Basic SELECT Queries 2.
 -- Retrieve employees' names and positions.
